@@ -10,7 +10,7 @@ import { useNavigate } from 'react-router-dom';
 class App extends Component {
   componentDidMount(){
     setTimeout(() => {
-      this.props.navigate('/Home');
+      this.props.navigate('/');
       this.props.navigate('/People');
       this.props.navigate('/Films');
     }, 5000);
@@ -22,7 +22,7 @@ class App extends Component {
         <div >
             <nav>
               <tr > 
-                <th ><Link  to='Home'> Home </Link></th> 
+                <th ><Link  to='/'> Home </Link></th> 
                 <th ><Link  to='People'> People </Link></th>
                 <th ><Link  to='Films'> Films </Link></th>
               </tr>
@@ -31,7 +31,7 @@ class App extends Component {
 
           <div >
               <Routes>
-                <Route path='Home' element={<TestHome></TestHome>}></Route>
+                <Route path='/' element={<TestHome></TestHome>}></Route>
                 <Route path='People' element={<StarWarsPeople></StarWarsPeople>}></Route>
                 <Route path='Films' element={<StarWarsFilm></StarWarsFilm>}></Route>
               </Routes>
