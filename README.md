@@ -1,3 +1,8 @@
+#TO VIEW THIS PROJECT IN PRODUCTION PLEASE ACCESS THE HTML HYPERLINK PROVIDED IN GITHUB
+#AUTHOR: MANUEL MONTES
+#DETAILS ON APPLICATION BOOTSTRAP SEEN BELOW, COURTESY OF REACT.JS
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
