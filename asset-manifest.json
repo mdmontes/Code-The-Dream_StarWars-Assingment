@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Code-The-Dream_StarWars-Assingment/static/css/main.c93e8ca0.css",
-    "main.js": "/Code-The-Dream_StarWars-Assingment/static/js/main.61a16928.js",
-    "static/js/787.7f826e75.chunk.js": "/Code-The-Dream_StarWars-Assingment/static/js/787.7f826e75.chunk.js",
-    "static/media/logo.svg": "/Code-The-Dream_StarWars-Assingment/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Code-The-Dream_StarWars-Assingment/index.html",
-    "main.c93e8ca0.css.map": "/Code-The-Dream_StarWars-Assingment/static/css/main.c93e8ca0.css.map",
-    "main.61a16928.js.map": "/Code-The-Dream_StarWars-Assingment/static/js/main.61a16928.js.map",
-    "787.7f826e75.chunk.js.map": "/Code-The-Dream_StarWars-Assingment/static/js/787.7f826e75.chunk.js.map"
+    "main.css": "/Code-The-Dream_StarWars-Assingment_V2/static/css/main.c93e8ca0.css",
+    "main.js": "/Code-The-Dream_StarWars-Assingment_V2/static/js/main.ff1a7b18.js",
+    "static/js/787.7f826e75.chunk.js": "/Code-The-Dream_StarWars-Assingment_V2/static/js/787.7f826e75.chunk.js",
+    "static/media/logo.svg": "/Code-The-Dream_StarWars-Assingment_V2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Code-The-Dream_StarWars-Assingment_V2/index.html",
+    "main.c93e8ca0.css.map": "/Code-The-Dream_StarWars-Assingment_V2/static/css/main.c93e8ca0.css.map",
+    "main.ff1a7b18.js.map": "/Code-The-Dream_StarWars-Assingment_V2/static/js/main.ff1a7b18.js.map",
+    "787.7f826e75.chunk.js.map": "/Code-The-Dream_StarWars-Assingment_V2/static/js/787.7f826e75.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c93e8ca0.css",
-    "static/js/main.61a16928.js"
+    "static/js/main.ff1a7b18.js"
   ]
 }
