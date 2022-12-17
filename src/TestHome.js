@@ -5,12 +5,16 @@ export default class TestHome extends React.Component {
 
 TestHome(){
     return(
-        <h1> Welcome to StartWars</h1>
+        <main>
+        <h1> Welcome to Star Wars!!!</h1>
+        <h2>To see a list of Top 10 Star Wars Charaters, Click "People"</h2>
+        <h2>To see a list of Top 6 Star Wars Films, Click "Films"</h2>
+        </main>
     )
 }
 
 render(){
-    return(<div className=".App-div"
+    return(<div
     >{this.TestHome()}
     </div>
     )

@@ -45,8 +45,8 @@ export default class StarWarsPeople extends React.Component {
       
   render() {
    return (
-       <div>
-         <h1 id='title'>StarWars Films</h1>
+       <div className="App-films">
+         <h1 id='title'>Top 6 Star Wars Films</h1>
          <table id='films'>
              <tbody>
                {this.renderTableHeader()}
